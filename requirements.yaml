@@ -1,0 +1,15 @@
+name: ai_ml_notes
+dependencies:
+- python=3.10
+- pip
+- jupyter
+- numpy
+- pandas
+- scipy
+- matplotlib
+- seaborn
+- pytensor
+- scikit-learn
+- tensorflow
+- keras
+- pytorch
