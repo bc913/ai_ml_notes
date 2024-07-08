@@ -4,8 +4,10 @@
 - Unsupervised learning
 - Supervised learning
 - Reinforcement learning
-## Algorithms
-
+## ML Algorithms
+<p align="center">
+  <img width="600" height="388" src="docs/images/ml_algorithms.png">
+</p>
 ## Supervised Learning
 - Regression Based
     - Linear
